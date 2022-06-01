@@ -1,0 +1,9 @@
+1. The basics of testing - Types of testing/ SDLC/ STLC/Software development methodologies/ test design techniques;
+2. Client-server architecture;
+3. Documentation - Checklists / Bug_reports / Test-case / Requirements;
+4. Terminal Linux;
+5. Git,GitHub,GitBush;
+6. Postman;
+7. SQL;
+8.Chrome_DevTools;
+9.Mobile testing.
