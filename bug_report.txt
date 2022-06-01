@@ -1,1 +1,12 @@
+Bug report structure:
 
+1. summary;
+2. project;
+3. component;
+4. version;
+5. severity;
+6. priority;
+7. steps to reproduce;
+8. actual result;
+9. expected result;
+10. additional information.
