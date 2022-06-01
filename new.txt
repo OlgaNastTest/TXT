@@ -1,0 +1,4 @@
+1. full name: Olga Nastsiushenka.
+2. age: 32.
+3. number of pets: 0.
+4. future desired salary: 1000$
